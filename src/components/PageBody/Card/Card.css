@@ -1,0 +1,30 @@
+.CardContainer {
+    box-shadow: 0 0px 1px 1px #000000;
+    width: 300px;
+    height: 475px;
+    padding: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.dots_div{
+    float: right;
+}
+.profileImg {
+   
+    width: 90px;
+    padding-top: 50px;
+    border-radius: 50%;
+    
+}
+.Student_data > h3 {
+    font-size: 20px;
+    padding: 30px;
+    margin: auto;
+}
+.Card_bottom_1 > button {
+    width: 100px;
+    margin: 15px;
+}
+.Card_bottom_2 > input {
+    width: 50px;
+}
